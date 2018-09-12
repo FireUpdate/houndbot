@@ -1,0 +1,29 @@
+{
+  "name": "croby",
+  "version": "1.0.0",
+  "description": "Fire Is My Owner!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "Testing!"
+  },
+  "keywords": [
+    "12345"
+  ],
+  "author": "Fire #8228",
+  "license": "ISC",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.4.1",
+    "google-translate-api": "^2.3.0",
+    "memejs": "^1.0.7",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "node.js": "0.0.0",
+    "os": "^0.1.1",
+    "random-puppy": "^1.1.0",
+    "superagent": "^3.8.3",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.24.0"
+  }
+}
