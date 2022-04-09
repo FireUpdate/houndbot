@@ -16,7 +16,7 @@
     "discord.js": "^11.4.1",
     "google-translate-api": "^2.3.0",
     "memejs": "^1.0.7",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.2.2",
     "ms": "^2.1.1",
     "node.js": "0.0.0",
