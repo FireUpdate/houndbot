@@ -15,7 +15,7 @@
     "cpu-stat": "^2.0.1",
     "discord.js": "^11.4.1",
     "google-translate-api": "^2.3.0",
-    "memejs": "^1.0.7",
+    "memejs": "^1.2.3",
     "moment": "^2.22.2",
     "moment-duration-format": "^2.2.2",
     "ms": "^2.1.1",
